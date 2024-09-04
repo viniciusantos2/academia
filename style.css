@@ -43,7 +43,7 @@ header{
 }
 section.main{
     min-height: 800px;
-    background-image: url(/image.jpg);
+    background-image: url(./image.jpg);
     background-size: cover;
     background-position: center;
 }
